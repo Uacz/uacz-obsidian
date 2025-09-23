@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "632ea26579ef1b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c28c1f4b0b4e2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82064da111e2832e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb24854f3af3e04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9111373a161437ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6138cf5d14998c95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3ecceb19647842a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bdd1b5189ac414ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ad0a6e06a55aa322",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af6dd79c6aef51e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f94b53df4d83e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9407027efdaa20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Uacz/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "9d814eb35d573c67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Uacz/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "d99c69b5c8897da1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23e4e727b2d3334c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Uacz/Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6138cf5d14998c95",
+  "lastOpenFiles": [
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Untitled.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Untitled.base",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Introduction.md",
+    "templates/chapter.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Index.md",
+    "README.md",
+    "content/index.md",
+    "CODE_OF_CONDUCT.md",
+    "docs/images/custom-social-image-preview-light.png",
+    "docs/images/custom-social-image-preview-dark.png",
+    "docs/philosophy.md",
+    "content/Astronomia/Ottica/Diffrazione di Fraunhofer.md",
+    "content/Astronomia/Serate Osservative/Serata divulgativa - Bimbi 1.md",
+    "content/Astronomia/Serate Osservative/2025.md",
+    "content/Astronomia/Serate Divulgative/Universo infinito.md",
+    "content/Astronomia/Serate Divulgative/Serata Standard per punti.md",
+    "content/Astronomia/Serate Divulgative/Lo stupore.md",
+    "content/Astronomia/Progetti/Progetto Remote Observatory.md",
+    "content/Astronomia/Progetti/Progetto Astronomia e Filosofia.md",
+    "content/Astronomia/Progetti/Progetti Astronomia.md",
+    "content/Astronomia/Libri/Fare Astronomia con piccoli Telescopi.md",
+    "content/Astronomia/Laboratori/Laboratorio Fisica 1.md",
+    "public/Uacz/Introduction-og-image.webp",
+    "public/Uacz/Index-og-image.webp",
+    "public/Uacz/Introduction.html",
+    "public/tags/example-tag.html",
+    "public/Uacz/Index.html",
+    "public/Uacz",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia",
+    "templates"
+  ]
+}
