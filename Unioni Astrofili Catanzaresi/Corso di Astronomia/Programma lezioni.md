@@ -2,19 +2,19 @@
 
 - Coordinate Altazimutali ed Equatoriali
 - Precessione
-- Archeastronomia
-- Le Leggi di Keplero
-- Galileo e Newton
+- Archeastronomia (P)
+- Le Leggi di Keplero (P)
+- Galileo e Newton (P)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: Star Trail 
 
 # 2. Luce e Radiazione
 
 - Parallasse Trigonometrica
-- Luminosità apparente e Assoluca
-- La natura ondulatoria della luce
-- Lo spettro elettromagnetico
-- Radiazione di corpo nero
+- Luminosità apparente e Assoluta
+- La natura ondulatoria della luce (D)
+- Lo spettro elettromagnetico (D)
+- Radiazione di corpo nero(D)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: laboratorio della luce
 
@@ -26,41 +26,42 @@
 - Formule pratiche
 - Radiotelescopi
 - Esercizi di Calcolo
-- ESPERIENZA PRATICA: Stazionamento di un telescopio
-
+- ESPERIENZA PRATICA: Stazionamento di un telescopio (D)
 
 # 4 Il Sole
-- Gli interni stellari
-- L'atmosfera stellare
+- Gli interni stellari (D)
+- L'atmosfera stellare (D)
 - Le altre stelle
 - Esercizi di calcolo
 - ESPERIENZA PRATICA: Osservazione del Sole
+
 # 5 I pianeti rocciosi
 
 - Disco protoplanetario
-- Mercurio, Venere, Marte e Luna
+- Mercurio, Venere, Marte e Luna  (D)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: Osservazione della Luna
 
 # 6 I pianeti gassosi
-- Mondi giganti
-- Saturno, Giove, Urano e Nettuno
-- Le Lune dei Giganti
+- Mondi giganti  (D)
+- Saturno, Giove, Urano e Nettuno  (D)
+- Le Lune dei Giganti (P)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: Osservazione di Saturno/Giove
 
 # 7 Galassie
-- Via Lattea
-- La sequenza di Hubble
-- Galassie a Spirali e Irregolari
-- Galassie Ellittiche
+- Via Lattea  (D)
+- La sequenza di Hubble  (D)
+- Galassie a Spirali e Irregolari (P)
+- Galassie Ellittiche (P)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)
 
 # 8 Cosmologia
-- La cosmologia newtoniana
+- La cosmologia newtoniana, stazionaria e inflazione (D)
 - la radiazione cosmica di fondo
-- Struttura dell'universo: origine e fine
+- Struttura dell'universo: origine e fine  (D)
+- Multiversi
 - Esercizi di calcolo
 - ESPERIENZA PRATICA: Lettura di un articolo scientifico di cosmologia
  
