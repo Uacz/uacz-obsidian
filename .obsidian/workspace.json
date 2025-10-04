@@ -11,10 +11,14 @@
             "id": "82064da111e2832e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unioni Astrofili Catanzaresi/Corso di Astronomia/Date 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Date 2025"
             }
           }
         ]
@@ -176,11 +180,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6138cf5d14998c95",
+  "active": "82064da111e2832e",
   "lastOpenFiles": [
-    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Untitled.md",
+    "Unioni Astrofili Catanzaresi/Laboratorio per Bambini/Date 2025.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Date 2025.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Programma lezioni.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/8 - Cosmologia.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Calendario.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/7 - Galassie.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/6 - I pianeti gassosi.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/5 - I pianeti rocciosi.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/4 - Il Sole.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/3 - Telescopi.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/2 - Luce e Radiazione.md",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/1 - La Sfera Celeste.md",
+    "Unioni Astrofili Catanzaresi/Laboratorio per Bambini/Laboratorio Pianeti.md",
+    "Unioni Astrofili Catanzaresi/Laboratorio per Bambini/Laboratorio di Fisica.md",
+    "Unioni Astrofili Catanzaresi/Laboratorio per Bambini/Laboratorio di Informatica.md",
+    "Unioni Astrofili Catanzaresi/Laboratorio per Bambini",
+    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Scopi del corso.md",
     "Unioni Astrofili Catanzaresi/Corso di Astronomia/Untitled.base",
-    "Unioni Astrofili Catanzaresi/Corso di Astronomia/Introduction.md",
     "templates/chapter.md",
     "Unioni Astrofili Catanzaresi/Corso di Astronomia/Index.md",
     "README.md",
@@ -193,13 +212,6 @@
     "content/Astronomia/Serate Osservative/Serata divulgativa - Bimbi 1.md",
     "content/Astronomia/Serate Osservative/2025.md",
     "content/Astronomia/Serate Divulgative/Universo infinito.md",
-    "content/Astronomia/Serate Divulgative/Serata Standard per punti.md",
-    "content/Astronomia/Serate Divulgative/Lo stupore.md",
-    "content/Astronomia/Progetti/Progetto Remote Observatory.md",
-    "content/Astronomia/Progetti/Progetto Astronomia e Filosofia.md",
-    "content/Astronomia/Progetti/Progetti Astronomia.md",
-    "content/Astronomia/Libri/Fare Astronomia con piccoli Telescopi.md",
-    "content/Astronomia/Laboratori/Laboratorio Fisica 1.md",
     "public/Uacz/Introduction-og-image.webp",
     "public/Uacz/Index-og-image.webp",
     "public/Uacz/Introduction.html",

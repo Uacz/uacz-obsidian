@@ -1,0 +1,7 @@
+- Parallasse Trigonometrica
+- Luminosità apparente e Assoluta
+- La natura ondulatoria della luce (D)
+- Lo spettro elettromagnetico (D)
+- Radiazione di corpo nero(D)
+- Esercizi di Calcolo
+- ESPERIENZA PRATICA: laboratorio della luce
