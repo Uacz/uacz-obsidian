@@ -65,4 +65,3 @@
 - Multiversi
 - Esercizi di calcolo
 - ESPERIENZA PRATICA: Lettura di un articolo scientifico di cosmologia
- 
