@@ -58,6 +58,7 @@
 - ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)
 
 # 8 Cosmologia
+- Paradosso di Fermi - Alieni
 - La cosmologia newtoniana, stazionaria e inflazione (D)
 - la radiazione cosmica di fondo
 - Struttura dell'universo: origine e fine  (D)
