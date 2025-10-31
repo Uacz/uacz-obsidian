@@ -10,7 +10,7 @@ created: 2025-10-31
 ---
 
 ## Biografia Breve
-Astrocoso. Responsabile del gruppo Unione Astrofili Catanzaresi
+Astrocoso. Referente del gruppo Unione Astrofili Catanzaresi
 
 ---
 
