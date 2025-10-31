@@ -1,12 +1,12 @@
-- Coordinate Altazimutali ed Equatoriali
-- Precessione
-- Archeastronomia (P)
-- Le Leggi di Keplero (P)
-- Galileo e Newton (P)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Star Trail 
+## [[Coordinate Altazimutali ed Equatoriali]]
+## [[Moti del pianeta Terra]]
+## [[Archeastronomia]]
+## [[Le Leggi di Keplero]]
+## [[Galileo e Newton]]
+## [[Esercizi di Calcolo]]
+## [[ESPERIENZA PRATICA Star Trail]] 
 
 
-# 1. Archeastronomia
+
 
 

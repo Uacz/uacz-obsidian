@@ -1,67 +1,32 @@
-# 1. La Sfera Celeste
+# [[1 - La Sfera Celeste]]
 
-- Coordinate Altazimutali ed Equatoriali
-- Precessione
-- Archeastronomia (P)
-- Le Leggi di Keplero (P)
-- Galileo e Newton (P)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Star Trail 
+# [[2 - Luce e Radiazione]]
 
-# 2. Luce e Radiazione
+# [[3 - Telescopi]]
 
-- Parallasse Trigonometrica
-- Luminosità apparente e Assoluta
-- La natura ondulatoria della luce (D)
-- Lo spettro elettromagnetico (D)
-- Radiazione di corpo nero(D)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: laboratorio della luce
+# [[4 - Il Sole]]
 
-# 3 Telescopi
+# [[5 - I pianeti rocciosi]]
 
-- Riflettori e RIfrattori
-- Il piano focale e la risoluzione
-- La luminosità di una immagine e le aberrazioni
-- Formule pratiche
-- Radiotelescopi
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Stazionamento di un telescopio (D)
+# [[6 - I pianeti gassosi]]
 
-# 4 Il Sole
-- Gli interni stellari (D)
-- L'atmosfera stellare (D)
-- Le altre stelle
-- Esercizi di calcolo
-- ESPERIENZA PRATICA: Osservazione del Sole
+# [[7 - Galassie]]
 
-# 5 I pianeti rocciosi
+# [[8 - Cosmologia]]
 
-- Disco protoplanetario
-- Mercurio, Venere, Marte e Luna  (D)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Osservazione della Luna
 
-# 6 I pianeti gassosi
-- Mondi giganti  (D)
-- Saturno, Giove, Urano e Nettuno  (D)
-- Le Lune dei Giganti (P)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Osservazione di Saturno/Giove
 
-# 7 Galassie
-- Via Lattea  (D)
-- La sequenza di Hubble  (D)
-- Galassie a Spirali e Irregolari (P)
-- Galassie Ellittiche (P)
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)
+# Date
 
-# 8 Cosmologia
-- Paradosso di Fermi - Alieni
-- La cosmologia newtoniana, stazionaria e inflazione (D)
-- la radiazione cosmica di fondo
-- Struttura dell'universo: origine e fine  (D)
-- Multiversi
-- Esercizi di calcolo
-- ESPERIENZA PRATICA: Lettura di un articolo scientifico di cosmologia
+[[1 - La Sfera Celeste]] --> 7 Novembre 2025 - 18:00/20:00
+[[2 - Luce e Radiazione]] --> 12 Dicembre 2025 - 18:00/20:00
+[[3 - Telescopi]] --> 9 Gennaio 2026 - 18:00/20:00
+[[4 - Il Sole]] --> 20 Febbraio 2026 - 18:00/20:00
+[[5 - I pianeti rocciosi]] --> 13 Marzo 2026 - 18:00/20:00
+[[6 - I pianeti gassosi]] --> 10 Aprile 2026 - 18:00/20:00
+[[7 - Galassie]] --> 15 Maggio 2026 - 18:00/20:00
+[[8 - Cosmologia]] --> 12 Giugno 2026 - 18:00/20:00
+
+
+ Via Bezzecca, 54, 88100 Catanzaro CZ, Italy
+
