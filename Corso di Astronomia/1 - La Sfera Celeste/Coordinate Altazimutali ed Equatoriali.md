@@ -38,13 +38,13 @@ Su queste semisfera tutti i corpi celesti ci sembrano proiettati alla stessa dis
 
 Per ora ci accontentiamo di questa rappresentazione e andiamo così a misurare gli astri.
 
-![[Utils/Risorse/Pasted image 20251031125232.png]]
+![[../Utils/Risorse/Pasted image 20251031125232.png]]
 
 La posizione di ciascun astro può essere descritta con due coordinate e dobbiamo considerare che questo sistema di coordinate cambia nel tempo perché la volta celeste si muove ( in realtà è la Terra che ruota).
 
 La branca dell'astronomia che si occupa di calcolare la posizione degli astri sulla sfera celeste è detta **Astrometria**
 
-![[Utils/Risorse/Pasted image 20251031092347.png]]
+![[../Utils/Risorse/Pasted image 20251031092347.png]]
 
 **Cerchio Massimo** : intersezione della sfera con un piano che PASSA per il suo centro ABCDA
 **Cerchio Piccolo** : intersezione della sfera con un piano che NON PASSA per il suo centro EFGHE
@@ -69,9 +69,9 @@ Le coordinate sono
 - altitudine 
 - azimut ( le direzioni in arabo)
 
-![[Utils/Risorse/Pasted image 20251031111836.png]]
+![[../Utils/Risorse/Pasted image 20251031111836.png]]
 
-![[Utils/Risorse/Pasted image 20251031111856.png]]
+![[../Utils/Risorse/Pasted image 20251031111856.png]]
 
 | Punto cardinale          | Azimut (gradi) |
 |--------------------------|---------------|
@@ -101,19 +101,19 @@ Le coordinate sono
 
 # Il sistema di coordinate Equatoriali
 
-![[Utils/Risorse/Pasted image 20251031094058.png]]
+![[../Utils/Risorse/Pasted image 20251031094058.png]]
 
 In questa immagine vediamo la sfera celeste in prospettiva della Terra. 
 L'angolo che si forma tra l'eclittica e l'equatore celeste  è di 23, 5° ed è uno degli elementi fondamentali alla vita.
 
 Ora proiettiamo questo punto di vista nel luogo dove avviene l'osservazione
 
-![[Utils/Risorse/Pasted image 20251031095054.png]]
+![[../Utils/Risorse/Pasted image 20251031095054.png]]
 
 Quindi se proiettiamo 
 
 
-![[Utils/Risorse/Pasted image 20251031115338.png]]
+![[../Utils/Risorse/Pasted image 20251031115338.png]]
 
 Le coordinate sono:
 
@@ -121,7 +121,7 @@ Le coordinate sono:
 
 **Punto Vernale** o **Punto Gamma** o **Punto d'Ariete** : punto della Sfera Celeste in cui il Sole, nel suo moto apparente annuale, transita sull’Equatore in Primavera
 
-![[Utils/Risorse/Pasted image 20251031120626.png]]
+![[../Utils/Risorse/Pasted image 20251031120626.png]]
 
 
 Esercizio con Cartes Du Ciel

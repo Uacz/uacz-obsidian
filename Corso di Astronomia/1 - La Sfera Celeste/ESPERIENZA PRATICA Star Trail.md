@@ -1,1 +1,1 @@
-![[Utils/Risorse/Pasted image 20251031125132.png]]
+![[../Utils/Risorse/Pasted image 20251031125132.png]]

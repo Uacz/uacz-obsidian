@@ -1,4 +1,4 @@
-![[Utils/Risorse/WhatsApp Image 2025-10-31 at 11.28.47.jpeg]]
+![[../Utils/Risorse/WhatsApp Image 2025-10-31 at 11.28.47.jpeg]]
 
 Assumiamo che la Terra ruoti attorno al Sole utilizzando un'orbita circolare quindi un giro di 360°.
 
