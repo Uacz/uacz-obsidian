@@ -1,5 +1,5 @@
-- Parallasse Trigonometrica
-- Luminosità apparente e Assoluta
+- [[La misura delle distanze]]
+- [[Luminosità apparente e assoluta]]
 - La natura ondulatoria della luce (D)
 - Lo spettro elettromagnetico (D)
 - Radiazione di corpo nero(D)

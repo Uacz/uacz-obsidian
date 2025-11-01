@@ -5,7 +5,7 @@ tags:
   - "#sferaceleste"
   - "#corsoastronomia"
   - "#geometriasferica"
-status: draft
+status: complete
 ---
 
 # 🗓️ Informazioni
@@ -55,11 +55,16 @@ $OF^2 = OK^2 + KF^2$
 
 Un triangolo sferico è una figura formata dall’intersezione di tre archi di circoli massimi sulla superficie di una sfera.
 
-Il triangolo *PBC* è un triangolo sferico mentre il triangolo *PFG* non lo è.
+Il triangolo *PBC* è un triangolo sferico mentre il triangolo *PFG* non lo è. 
+
+EFGHE è detto **Almucàntarat** (dall' arabo, a volte anche **almucantar** o **almacantara**, è il termine con cui in astronomia si definisce il parallelo della sfera celeste nel sistema di riferimento"Sistema di riferimento") che ha nello zenit il proprio polo nord. Un almucantarat individua, pertanto, i punti aventi la medesima altezza, indicata con _h_.
 
 Vale la relazione
 $s = R \times \theta$
 
+Un **[[Meridiano]]** è una semicirconferenza che collega il Polo Nord al Polo Sud, utilizzata nella cartografia per definire la longitudine di un punto sulla Terra.
+
+Il **[[Meridiano locale]]**, o impropriamente meridiano, è il cerchio massimo della sfera celeste passante per i poli celesti e per i poli dell'orizzonte, detti Zenith e Nadir. Può anche pensarsi come la proiezione del meridiano geografico dell'osservatore sulla sfera celeste.
 
 # Il sistema di coordinate Altazimutali
 
@@ -98,7 +103,7 @@ Le coordinate sono
 ## Svantaggi
 - difficili da usare con un telescopio in modo manuale
 - dipendono dalla latitudine e dalla longitudine (le stella cambiano continuamente posizione)
-- Le stelle si alzano ogni giorno 4 minuti prima [[Esercizio 1]]
+- Le stelle si alzano ogni giorno 4 minuti prima [[Esercizio 1 - Moti Della Terra]]
 
 # Il sistema di coordinate Equatoriali
 
